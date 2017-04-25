@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1493125838230" clover="3.2.0">
+  <project timestamp="1493125838230" name="All files">
+    <metrics statements="26" coveredstatements="25" conditionals="12" coveredconditionals="12" methods="11" coveredmethods="10" elements="49" coveredelements="47" complexity="0" loc="26" ncloc="26" packages="1" files="3" classes="3">
+      <file name="Clock.jsx" path="D:\ReactJS\testing\react-testing-with-jest-master\react-testing-with-jest-master\starter\CountdownTimer\app\components\Clock.jsx">
+        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="5" count="16" type="stmt"/>
+        <line num="6" count="16" type="stmt"/>
+        <line num="8" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="11" type="stmt"/>
+        <line num="12" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="12" type="stmt"/>
+        <line num="16" count="16" type="stmt"/>
+        <line num="20" count="14" type="stmt"/>
+        <line num="21" count="14" type="stmt"/>
+      </file>
+      <file name="Countdown.jsx" path="D:\ReactJS\testing\react-testing-with-jest-master\react-testing-with-jest-master\starter\CountdownTimer\app\components\Countdown.jsx">
+        <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="6"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="15" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="42" count="10" type="stmt"/>
+        <line num="44" count="10" type="stmt"/>
+      </file>
+      <file name="CountdownForm.jsx" path="D:\ReactJS\testing\react-testing-with-jest-master\react-testing-with-jest-master\starter\CountdownTimer\app\components\CountdownForm.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="15" count="13" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
